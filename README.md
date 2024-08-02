@@ -21,7 +21,7 @@ STEP 1: FOLLOW THE WIRING DIAGRAM BELOW:
 ![Calculator_Wiring_Design](https://github.com/user-attachments/assets/8b2c3ef9-ba2a-437d-a51d-51a8408513d0)
 
 *Also Be aware about what the non-integer keys are mapped to:
-A->/ B->* C->- D->+ #->= *->.
+A-> / B-> * C-> - D-> + #-> = *-> .
 
 STEP 2: Using the Arduino IDE, follow along or copy/paste my code from the repo into your sketch!
 
