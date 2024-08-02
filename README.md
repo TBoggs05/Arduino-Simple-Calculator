@@ -1,8 +1,9 @@
 # Arduino-Simple-Calculator
-The Calculator is capable of decimal and integer arithmetic using the operators (+,-,*,/). 
+The Calculator is capable of decimal and integer arithmetic using the operators: +,-,*,/. 
 
 This simple calculator uses:
 -Arduino UNO 
+-BreadBoard
 -4x4 keypad for input/output
 -16x2 lcd display
 -2 c++ files to handle the calculations
